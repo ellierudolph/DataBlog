@@ -1,0 +1,295 @@
+Function,Iterations,Concatenations,OPS,Error,JVM,Computer
+Basic Concat,1,1,168495978.8,332251.369,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10,1,17337143.71,46585.335,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100,1,1653353.206,5360.124,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000,1,144769.728,1395.846,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10000,1,13044.159,55.454,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100000,1,1071.598,8.158,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000000,1,101.055,0.702,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1,2,103858086.3,2870863.624,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10,2,10386084.57,65534.226,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100,2,953880.091,20038.882,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000,2,89219.967,555.081,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10000,2,8288.729,28.031,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100000,2,758.075,2.122,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000000,2,69.742,0.866,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1,4,33566135.18,302989.695,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10,4,3148205.429,15607.53,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100,4,314168.75,4235.257,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000,4,30345.527,378.019,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10000,4,3138.445,1032.608,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100000,4,295.923,3.831,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000000,4,29.006,0.981,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1,8,16658198.52,262933.081,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10,8,1666982.278,6909.762,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100,8,166927.641,1498.377,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000,8,17345.155,71.087,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10000,8,1551.191,25.076,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100000,8,160.285,1.192,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000000,8,16.034,0.118,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1,16,8712320.717,43523.236,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10,16,876865.454,5703.66,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100,16,88231.665,354.245,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000,16,9022.295,48.257,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10000,16,841.638,60.522,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100000,16,85.91,0.445,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000000,16,8.629,0.103,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1,32,4519182.077,62236.225,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10,32,451194.074,2643.071,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100,32,45103.661,314.306,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000,32,4555.118,98.864,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10000,32,443.043,3.245,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100000,32,44.486,0.095,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000000,32,4.442,0.017,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1,64,2208472.529,7232.426,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10,64,218801.486,1728.313,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100,64,21783.757,71.074,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000,64,2203.401,98.691,temurin-20.0.2,M2 Macbook Air
+Basic Concat,10000,64,218.778,2.167,temurin-20.0.2,M2 Macbook Air
+Basic Concat,100000,64,21.906,0.112,temurin-20.0.2,M2 Macbook Air
+Basic Concat,1000000,64,2.166,0.168,temurin-20.0.2,M2 Macbook Air
+Static Class,1,1,50594484.22,399992.447,temurin-20.0.2,M2 Macbook Air
+Static Class,10,1,4956645.009,36079.301,temurin-20.0.2,M2 Macbook Air
+Static Class,100,1,492008.9,1997.952,temurin-20.0.2,M2 Macbook Air
+Static Class,1000,1,44646.318,314.89,temurin-20.0.2,M2 Macbook Air
+Static Class,10000,1,4429.166,129.198,temurin-20.0.2,M2 Macbook Air
+Static Class,100000,1,221.121,28.198,temurin-20.0.2,M2 Macbook Air
+Static Class,1000000,1,10.01,2.223,temurin-20.0.2,M2 Macbook Air
+Static Class,1,2,37068162.46,50665518.75,temurin-20.0.2,M2 Macbook Air
+Static Class,10,2,2044281.403,7759708.107,temurin-20.0.2,M2 Macbook Air
+Static Class,100,2,146123.082,584474.461,temurin-20.0.2,M2 Macbook Air
+Static Class,1000,2,26569.498,67980.703,temurin-20.0.2,M2 Macbook Air
+Static Class,10000,2,1032.203,772.203,temurin-20.0.2,M2 Macbook Air
+Static Class,100000,2,119.694,516.887,temurin-20.0.2,M2 Macbook Air
+Static Class,1000000,2,16.449,56.511,temurin-20.0.2,M2 Macbook Air
+Static Class,1,4,30323648.7,324140.634,temurin-20.0.2,M2 Macbook Air
+Static Class,10,4,3046769.838,26178.405,temurin-20.0.2,M2 Macbook Air
+Static Class,100,4,298078.497,1522.79,temurin-20.0.2,M2 Macbook Air
+Static Class,1000,4,28454.415,752.931,temurin-20.0.2,M2 Macbook Air
+Static Class,10000,4,2771.734,147.1,temurin-20.0.2,M2 Macbook Air
+Static Class,100000,4,218.528,15.443,temurin-20.0.2,M2 Macbook Air
+Static Class,1000000,4,21.125,0.701,temurin-20.0.2,M2 Macbook Air
+Static Class,1,8,7806718.245,1647074.833,temurin-20.0.2,M2 Macbook Air
+Static Class,10,8,769274.809,154783.751,temurin-20.0.2,M2 Macbook Air
+Static Class,100,8,77834.986,15173.726,temurin-20.0.2,M2 Macbook Air
+Static Class,1000,8,7797.374,940.981,temurin-20.0.2,M2 Macbook Air
+Static Class,10000,8,748.092,53.07,temurin-20.0.2,M2 Macbook Air
+Static Class,100000,8,74.795,16.251,temurin-20.0.2,M2 Macbook Air
+Static Class,1000000,8,7.289,0.533,temurin-20.0.2,M2 Macbook Air
+Static Class,1,16,7283595.651,970984.593,temurin-20.0.2,M2 Macbook Air
+Static Class,10,16,738452.886,50341.898,temurin-20.0.2,M2 Macbook Air
+Static Class,100,16,70209.95,7696.911,temurin-20.0.2,M2 Macbook Air
+Static Class,1000,16,7237.232,691.311,temurin-20.0.2,M2 Macbook Air
+Static Class,10000,16,733.57,30.328,temurin-20.0.2,M2 Macbook Air
+Static Class,100000,16,72.349,7.151,temurin-20.0.2,M2 Macbook Air
+Static Class,1000000,16,7.106,0.623,temurin-20.0.2,M2 Macbook Air
+Static Class,1,32,6598267.067,19299.994,temurin-20.0.2,M2 Macbook Air
+Static Class,10,32,665076.455,2153.059,temurin-20.0.2,M2 Macbook Air
+Static Class,100,32,65049.583,1192.251,temurin-20.0.2,M2 Macbook Air
+Static Class,1000,32,6517.751,85.6,temurin-20.0.2,M2 Macbook Air
+Static Class,10000,32,649.394,1.655,temurin-20.0.2,M2 Macbook Air
+Static Class,100000,32,64.159,0.128,temurin-20.0.2,M2 Macbook Air
+Static Class,1000000,32,6.349,0.122,temurin-20.0.2,M2 Macbook Air
+Static Class,1,64,3367295.783,6874.445,temurin-20.0.2,M2 Macbook Air
+Static Class,10,64,334382.535,3199.798,temurin-20.0.2,M2 Macbook Air
+Static Class,100,64,32912.235,126.961,temurin-20.0.2,M2 Macbook Air
+Static Class,1000,64,3303.007,136.246,temurin-20.0.2,M2 Macbook Air
+Static Class,10000,64,336.177,2.666,temurin-20.0.2,M2 Macbook Air
+Static Class,100000,64,33.487,0.152,temurin-20.0.2,M2 Macbook Air
+Static Class,1000000,64,3.308,0.033,temurin-20.0.2,M2 Macbook Air
+String Buffer,1,1,68293705.89,455829.138,temurin-20.0.2,M2 Macbook Air
+String Buffer,10,1,6495757.018,11704.537,temurin-20.0.2,M2 Macbook Air
+String Buffer,100,1,624076.619,1942.003,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000,1,58087.447,313.693,temurin-20.0.2,M2 Macbook Air
+String Buffer,10000,1,5077.288,2001.229,temurin-20.0.2,M2 Macbook Air
+String Buffer,100000,1,376.913,640.853,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000000,1,15.869,4.995,temurin-20.0.2,M2 Macbook Air
+String Buffer,1,2,31937628.22,99026.332,temurin-20.0.2,M2 Macbook Air
+String Buffer,10,2,3269757.808,14833.969,temurin-20.0.2,M2 Macbook Air
+String Buffer,100,2,323917.114,3386.146,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000,2,32257.332,283.342,temurin-20.0.2,M2 Macbook Air
+String Buffer,10000,2,3229.334,114.334,temurin-20.0.2,M2 Macbook Air
+String Buffer,100000,2,321.853,1.58,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000000,2,32.247,0.145,temurin-20.0.2,M2 Macbook Air
+String Buffer,1,4,23318313.46,117799.756,temurin-20.0.2,M2 Macbook Air
+String Buffer,10,4,2332396.971,9006.8,temurin-20.0.2,M2 Macbook Air
+String Buffer,100,4,238236.32,628.017,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000,4,23808.139,65.651,temurin-20.0.2,M2 Macbook Air
+String Buffer,10000,4,2384.027,34.74,temurin-20.0.2,M2 Macbook Air
+String Buffer,100000,4,238.212,0.816,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000000,4,23.638,0.075,temurin-20.0.2,M2 Macbook Air
+String Buffer,1,8,15570720.24,137918.528,temurin-20.0.2,M2 Macbook Air
+String Buffer,10,8,1535759.142,4759.021,temurin-20.0.2,M2 Macbook Air
+String Buffer,100,8,155058.404,432.006,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000,8,15474.836,15.57,temurin-20.0.2,M2 Macbook Air
+String Buffer,10000,8,1552.577,12.558,temurin-20.0.2,M2 Macbook Air
+String Buffer,100000,8,154.775,0.664,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000000,8,15.301,0.097,temurin-20.0.2,M2 Macbook Air
+String Buffer,1,16,9209002.036,21113.94,temurin-20.0.2,M2 Macbook Air
+String Buffer,10,16,921255.967,2079.302,temurin-20.0.2,M2 Macbook Air
+String Buffer,100,16,91752.435,826.015,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000,16,9196.547,15.477,temurin-20.0.2,M2 Macbook Air
+String Buffer,10000,16,911.099,3.092,temurin-20.0.2,M2 Macbook Air
+String Buffer,100000,16,91.734,0.238,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000000,16,8.911,0.082,temurin-20.0.2,M2 Macbook Air
+String Buffer,1,32,5066830.745,25431.667,temurin-20.0.2,M2 Macbook Air
+String Buffer,10,32,507362.297,1691.57,temurin-20.0.2,M2 Macbook Air
+String Buffer,100,32,50590.571,162.473,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000,32,5056.494,27.276,temurin-20.0.2,M2 Macbook Air
+String Buffer,10000,32,505.56,2.048,temurin-20.0.2,M2 Macbook Air
+String Buffer,100000,32,50.538,0.095,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000000,32,5.038,0.03,temurin-20.0.2,M2 Macbook Air
+String Buffer,1,64,2665078.805,15276.291,temurin-20.0.2,M2 Macbook Air
+String Buffer,10,64,267156.287,1168.677,temurin-20.0.2,M2 Macbook Air
+String Buffer,100,64,26617.496,178.245,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000,64,2668.404,11.434,temurin-20.0.2,M2 Macbook Air
+String Buffer,10000,64,266.435,0.592,temurin-20.0.2,M2 Macbook Air
+String Buffer,100000,64,26.594,0.555,temurin-20.0.2,M2 Macbook Air
+String Buffer,1000000,64,2.574,0.025,temurin-20.0.2,M2 Macbook Air
+String Builder,1,1,58085721.25,63674440.67,temurin-20.0.2,M2 Macbook Air
+String Builder,10,1,5392206.611,841699.486,temurin-20.0.2,M2 Macbook Air
+String Builder,100,1,429056.422,791375.351,temurin-20.0.2,M2 Macbook Air
+String Builder,1000,1,26609.151,97875.234,temurin-20.0.2,M2 Macbook Air
+String Builder,10000,1,3588.037,11324.706,temurin-20.0.2,M2 Macbook Air
+String Builder,100000,1,313.622,1072.51,temurin-20.0.2,M2 Macbook Air
+String Builder,1000000,1,21.265,82.287,temurin-20.0.2,M2 Macbook Air
+String Builder,1,2,42267063.67,86855232.36,temurin-20.0.2,M2 Macbook Air
+String Builder,10,2,2691759.779,3077760.184,temurin-20.0.2,M2 Macbook Air
+String Builder,100,2,149180.463,77983.902,temurin-20.0.2,M2 Macbook Air
+String Builder,1000,2,38839.492,108794.958,temurin-20.0.2,M2 Macbook Air
+String Builder,10000,2,4477.104,11125.696,temurin-20.0.2,M2 Macbook Air
+String Builder,100000,2,305.56,1018.964,temurin-20.0.2,M2 Macbook Air
+String Builder,1000000,2,11.679,4.507,temurin-20.0.2,M2 Macbook Air
+String Builder,1,4,20101368.08,77743902.65,temurin-20.0.2,M2 Macbook Air
+String Builder,10,4,1117610.41,245973.965,temurin-20.0.2,M2 Macbook Air
+String Builder,100,4,190345.705,666955.556,temurin-20.0.2,M2 Macbook Air
+String Builder,1000,4,19331.923,68708.045,temurin-20.0.2,M2 Macbook Air
+String Builder,10000,4,3500.705,8090.795,temurin-20.0.2,M2 Macbook Air
+String Builder,100000,4,344.73,3.422,temurin-20.0.2,M2 Macbook Air
+String Builder,1000000,4,38.683,0.296,temurin-20.0.2,M2 Macbook Air
+String Builder,1,8,18186701.13,2433604.471,temurin-20.0.2,M2 Macbook Air
+String Builder,10,8,2967022.037,160977.031,temurin-20.0.2,M2 Macbook Air
+String Builder,100,8,336215.688,1193.369,temurin-20.0.2,M2 Macbook Air
+String Builder,1000,8,24972.095,1400.776,temurin-20.0.2,M2 Macbook Air
+String Builder,10000,8,3155.342,74.071,temurin-20.0.2,M2 Macbook Air
+String Builder,100000,8,313.198,9.962,temurin-20.0.2,M2 Macbook Air
+String Builder,1000000,8,31.889,0.851,temurin-20.0.2,M2 Macbook Air
+String Builder,1,16,21539750.29,51912.478,temurin-20.0.2,M2 Macbook Air
+String Builder,10,16,2077407.783,3389.322,temurin-20.0.2,M2 Macbook Air
+String Builder,100,16,212958.299,2542.749,temurin-20.0.2,M2 Macbook Air
+String Builder,1000,16,21839.402,299.296,temurin-20.0.2,M2 Macbook Air
+String Builder,10000,16,2125.917,22.618,temurin-20.0.2,M2 Macbook Air
+String Builder,100000,16,217.232,0.934,temurin-20.0.2,M2 Macbook Air
+String Builder,1000000,16,21.827,0.134,temurin-20.0.2,M2 Macbook Air
+String Builder,1,32,12925322.79,54977.784,temurin-20.0.2,M2 Macbook Air
+String Builder,10,32,1099208.049,1016266.966,temurin-20.0.2,M2 Macbook Air
+String Builder,100,32,113227.913,100572.929,temurin-20.0.2,M2 Macbook Air
+String Builder,1000,32,9675.781,12453.92,temurin-20.0.2,M2 Macbook Air
+String Builder,10000,32,1249.649,590.665,temurin-20.0.2,M2 Macbook Air
+String Builder,100000,32,97.963,84.339,temurin-20.0.2,M2 Macbook Air
+String Builder,1000000,32,12.452,6.265,temurin-20.0.2,M2 Macbook Air
+String Builder,1,64,3957128.098,637019.415,temurin-20.0.2,M2 Macbook Air
+String Builder,10,64,396115.83,62411.66,temurin-20.0.2,M2 Macbook Air
+String Builder,100,64,54090.265,2304.382,temurin-20.0.2,M2 Macbook Air
+String Builder,1000,64,3797.91,168.799,temurin-20.0.2,M2 Macbook Air
+String Builder,10000,64,372.569,38.026,temurin-20.0.2,M2 Macbook Air
+String Builder,100000,64,37.786,4.162,temurin-20.0.2,M2 Macbook Air
+String Builder,1000000,64,3.716,0.419,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1,1,302565384.9,4670407.804,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10,1,30426386.7,228258.33,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100,1,1192715.332,5325.132,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000,1,102701.757,325.483,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10000,1,9450.418,17.418,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100000,1,797.29,18.711,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000000,1,74.717,0.422,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1,2,98131786.7,3100987.845,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10,2,9153331.049,757398.433,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100,2,846737.459,55525.227,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000,2,71650.816,59021.578,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10000,2,7011.676,329.653,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100000,2,392.694,992.611,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000000,2,61.328,15.265,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1,4,76734993.91,27373756.28,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10,4,7605681.06,759584.233,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100,4,556061.539,984064.816,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000,4,40970.61,84812.602,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10000,4,4319.576,7517.029,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100000,4,450.954,13.292,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000000,4,46.621,5.201,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1,8,63000336.31,239164.062,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10,8,6038762.571,196919.27,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100,8,557579.475,1918.24,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000,8,55610.003,815.076,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10000,8,5291.604,257.392,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100000,8,437.466,2.982,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000000,8,19.006,3.137,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1,16,6709159.36,2524456.561,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10,16,670082.004,203274.331,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100,16,66535.623,22290.178,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000,16,6313.469,1031.384,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10000,16,634.959,155.413,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100000,16,55.803,11.336,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000000,16,5.459,0.901,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1,32,5495733.965,1061909.692,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10,32,556342.883,113003.599,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100,32,57940.898,19948.676,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000,32,11870.085,4120.371,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10000,32,1202.341,214.229,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100000,32,86.935,19.155,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000000,32,8.392,2.816,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1,64,13023927.85,187416.462,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10,64,1298052.731,10172.594,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100,64,131098.624,1143.29,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000,64,12873.027,256.772,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,10000,64,1258.165,36.735,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,100000,64,105.159,3.878,temurin-20.0.2,M2 Macbook Air
+String Builder Non-Static,1000000,64,10.249,0.274,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1,1,73926336.47,308890.7,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10,1,8369952.554,32171.434,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100,1,708267.532,4648.914,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000,1,38908.107,3964.475,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10000,1,3437.179,1162.862,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100000,1,172.079,62.392,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000000,1,14.723,2.82,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1,2,71847116.94,410339.586,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10,2,7962662.513,32128.777,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100,2,680637.059,9095.964,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000,2,38669.899,1559.294,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10000,2,2804.503,371.01,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100000,2,154.636,48.232,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000000,2,14.938,1.863,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1,4,53929327.52,437935.695,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10,4,6659073.265,252323.566,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100,4,468661.465,45474.791,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000,4,24877.162,3116.778,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10000,4,3506.835,2861.484,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100000,4,409.545,2.463,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000000,4,46.994,0.588,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1,8,32925364.65,1483288.894,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10,8,4899054.869,76899.469,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100,8,400707.712,19602.741,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000,8,18129.409,2424.223,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10000,8,3053.003,1010.764,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100000,8,318.248,27.472,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000000,8,22.097,1.591,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1,16,5682363.796,1795443.579,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10,16,3416253.862,29460.504,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100,16,254429.704,7004.637,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000,16,27284.313,498.707,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10000,16,3147.412,12.584,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100000,16,286.699,8.596,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000000,16,22.259,1.382,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1,32,10765451.88,710371.12,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10,32,2171303.79,16838.209,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100,32,171693.268,12309.047,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000,32,18245.405,719.256,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10000,32,2023.13,211.763,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100000,32,175.104,2.087,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000000,32,16.199,1.484,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1,64,11451926.16,291012.092,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10,64,999474.603,28455.902,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100,64,99835.031,2635.025,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000,64,7377.579,714.141,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,10000,64,609.22,87.759,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,100000,64,53.294,6.852,temurin-20.0.2,M2 Macbook Air
+String Builder Passed In,1000000,64,4.804,0.465,temurin-20.0.2,M2 Macbook Air
